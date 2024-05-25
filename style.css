@@ -22,52 +22,52 @@ body {
 }
 
 .custom-bg {
-    background-color: rgba(33, 33, 33, 0.9); /* Example: semi-transparent black */
-    padding: 20px; /* Optional: to add some padding around the content */
-    border-radius: 10px; /* Optional: to round the corners */
+    background-color: rgba(33, 33, 33, 0.9);
+    padding: 20px;
+    border-radius: 10px;
 }
 
 .custom-text {
-    color: #FF4545; /* Example: semi-transparent black */
+    color: #FF4545;
 }
 
 .custom-btn {
     color: #212121;
     background-color: #FF4545;
-    border: 2px solid #FF4545; /* Set border initially */
+    border: 2px solid #FF4545;
 }
 
-/* Hover effect */
+
 .custom-btn:hover {
-    color: #FF4545; /* Change text color on hover */
-    background-color: #212121; /* Change background color on hover */
-    border-color: #FF4545; /* Change border color on hover */
+    color: #FF4545;
+    background-color: #212121;
+    border-color: #FF4545;
 }
 
-/* Custom navbar styles */
+
 .custom-navbar {
-    background-color: #333; /* Change this to your preferred background color */
+    background-color: #333;
 }
 
 .custom-navbar .navbar-brand, .custom-navbar .nav-link {
-    color: #FF4545; /* Change this to your preferred text color */
+    color: #FF4545;
 }
 
-/* Change navbar link color on hover */
+
   .custom-navbar .nav-link:hover {
     color: #fff;
 }
 
 .dropdown-menu {
-    background-color: #333; /* Set your desired background color */
-    border: 1px solid #FF4545; /* Set border color */
+    background-color: #333;
+    border: 1px solid #FF4545;
 }
 
 .dropdown-menu a {
-    color: #FF4545; /* Set text color */
+    color: #FF4545;
 }
 
 .dropdown-menu a:hover {
-    background-color: #FF4545; /* Set hover background color */
+    background-color: #FF4545;
 }
 
