@@ -1,0 +1,73 @@
+body {
+    background-image: url(image/BK.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+.custom-img {
+    border: 2px solid #FF4545;
+    border-radius: 10px;
+}
+
+.content-wrapper {
+    height: 100%;
+}
+
+.button {
+    margin: 5px;
+}
+
+.custom-bg {
+    background-color: rgba(33, 33, 33, 0.9); /* Example: semi-transparent black */
+    padding: 20px; /* Optional: to add some padding around the content */
+    border-radius: 10px; /* Optional: to round the corners */
+}
+
+.custom-text {
+    color: #FF4545; /* Example: semi-transparent black */
+}
+
+.custom-btn {
+    color: #212121;
+    background-color: #FF4545;
+    border: 2px solid #FF4545; /* Set border initially */
+}
+
+/* Hover effect */
+.custom-btn:hover {
+    color: #FF4545; /* Change text color on hover */
+    background-color: #212121; /* Change background color on hover */
+    border-color: #FF4545; /* Change border color on hover */
+}
+
+/* Custom navbar styles */
+.custom-navbar {
+    background-color: #333; /* Change this to your preferred background color */
+}
+
+.custom-navbar .navbar-brand, .custom-navbar .nav-link {
+    color: #FF4545; /* Change this to your preferred text color */
+}
+
+/* Change navbar link color on hover */
+  .custom-navbar .nav-link:hover {
+    color: #fff;
+}
+
+.dropdown-menu {
+    background-color: #333; /* Set your desired background color */
+    border: 1px solid #FF4545; /* Set border color */
+}
+
+.dropdown-menu a {
+    color: #FF4545; /* Set text color */
+}
+
+.dropdown-menu a:hover {
+    background-color: #FF4545; /* Set hover background color */
+}
+
